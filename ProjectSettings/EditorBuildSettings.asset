@@ -9,14 +9,14 @@ EditorBuildSettings:
     path: Assets/Scenes/IntroMenu.unity
     guid: 56e3faabc5bb30f49a68bb8f1292f988
   - enabled: 1
+    path: Assets/Scenes/MainScene.unity
+    guid: ef68a8c81b45aca4296bcae81822ec24
+  - enabled: 1
     path: Assets/Scenes/WinScene.unity
     guid: 037d06fbede2b4041a843d9ee6fe750c
   - enabled: 1
     path: Assets/Scenes/LoseScene.unity
     guid: 72e5c65a45893714484002914e3fd521
-  - enabled: 1
-    path: Assets/Scenes/_Recovery/0.unity
-    guid: d794a2ef8ba31d847ad3c19d03e2ddb9
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 05b4aeda8533b704f9be24b556a43d98,
       type: 3}
